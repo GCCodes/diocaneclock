@@ -1,0 +1,9 @@
+name: DioCaneClock
+version: 0.1
+author: Gianluca_C
+main: main.diocaneclock.diocaneclock
+commands:
+  dcc:
+          description: Ricarica la configurazione.
+          usage:  |
+               /dcc
